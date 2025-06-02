@@ -1,0 +1,10 @@
+[project]
+name = "cuda-minpmac"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jax>=0.6.1",
+    "jaxopt>=0.8.5",
+]
